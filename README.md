@@ -11,7 +11,7 @@ chatGPT
 
 ## 🧐 Processo de Criação
 de acordo a minha curiosidade e experiencia no assunsto,
-fui buscando conteudos no chargpt e usei o leonardo.ia 
+fui buscando conteudos no chargpt e usei o leonardo.ia
 para retrata a imagem que tivesse conecção com o texto
 
 ## 🚀 Resultados
